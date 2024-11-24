@@ -1,4 +1,0 @@
-- Languages
-	- [[C++]]
-	- Python
-	- Tlc/Tk
