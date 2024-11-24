@@ -1,4 +1,0 @@
-- Linux guide
-	- [[System]]
-	- Development
-	- Media
