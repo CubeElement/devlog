@@ -1,1 +1,2 @@
 - [[Configuration guides]]
+- [[Embedded]]
