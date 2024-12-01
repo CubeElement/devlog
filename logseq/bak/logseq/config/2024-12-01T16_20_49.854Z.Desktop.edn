@@ -420,6 +420,6 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
- :default-home {:page "CubeElement Homepage"}
+ :default-home {:page "Cubeelement Homepage"}
  
  }
